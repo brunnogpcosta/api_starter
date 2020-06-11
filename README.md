@@ -19,8 +19,11 @@ curso node starter
 #### Rotas
 
 LISTAR REGISTROS(GET)
+-------------------------
 - http://localhost:3001/api/products/
+
 PROCURAR REGISTRO(GET)
+------------------------
 - http://localhost:3001/api/products/{id}
 ATUALIZAR REGISTRO(PUT)
 - http://localhost:3001/api/products/{id}
