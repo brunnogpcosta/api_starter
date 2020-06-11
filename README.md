@@ -15,21 +15,21 @@ curso node starter
 
 ## Rotas
 
-*LISTAR REGISTROS(GET)
+LISTAR REGISTROS(GET)
 
 - http://localhost:3001/api/products/
 
-*PROCURAR REGISTRO(GET)
+PROCURAR REGISTRO(GET)
 
 - http://localhost:3001/api/products/{id}
 
-*ATUALIZAR REGISTRO(PUT)
+ATUALIZAR REGISTRO(PUT)
 - http://localhost:3001/api/products/{id}
   
-*DELETAR ARQUIVO
+DELETAR ARQUIVO
 - http://localhost:3001/api/products/{id}
 
-*PAGINAÇÃO
+PAGINAÇÃO
 - http://localhost:3001/api/products/?page={numero}
 
 
